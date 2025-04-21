@@ -1,1 +1,1 @@
-//Add JavaScript - form
+//Add JavaScript - form.
